@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "unknownblack2029@gmail.com",
-		"password": "accountwithmadara",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -40,9 +40,9 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
+			"email": "alexmapelipro@gmail.com",
+			"clientId": "311554212450-f29viop58ue1|5st4namb9lidcsamv9m.apps.googleusercontent.com",
+			"clientSecret": "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",
 			"refreshToken": "",
 			"apiKey": ""
 		},
